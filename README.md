@@ -16,3 +16,9 @@ markdown 사용법
 * 이탤릭체 *안녕하세요*
 * 볼드체 **안녕하세요**
 * 취소선 ~~안녕하세요~~
+
+3. 테이블
+First Header | Second Header
+------------ | -------------
+Content cell1 | Content cell2
+Content column1 | Content column2
