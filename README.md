@@ -17,8 +17,14 @@ markdown 사용법
 * 볼드체 **안녕하세요**
 * 취소선 ~~안녕하세요~~
 
-3. 테이블
-First Header | Second Header
------------- | -------------
-Content cell1 | Content cell2
-Content column1 | Content column2
+3. 인용구
+>안녕하세요
+>>안녕하세요
+>>>안녕하세요
+
+4. 링크
+[GOOGLE](https://google.com)
+
+5. 이미지
+
+![이미지](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20120408_182%2Fitgirlbag_1333867884575ErNGe_JPEG%2F%25A4%25A911.jpg&type=b400)
